@@ -3,7 +3,11 @@
 
 
 
-https://github.com/Chris970715/Tech_test_1/assets/39882035/7927bc83-d7b3-4fdd-bb4e-3d1f0d0d85aa
+
+
+https://github.com/Chris970715/Tech_test_1/assets/39882035/ba166acb-0768-4887-bb93-e534e020b2bf
+
+
 
 The following video is the final result.
 
