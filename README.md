@@ -11,6 +11,9 @@ https://github.com/Chris970715/Tech_test_1/assets/39882035/ba166acb-0768-4887-bb
 On this version, I use Physics.checkSphere to find out whether client is near the door or not.
 
 I set closedRotation to have original position and set rotateTheDoor to have y on 90f. those varaible will be called and used in IF statement.
+
+
+
     void Start()
     {
         // Assigning the orginal posiotn to closedRotation
